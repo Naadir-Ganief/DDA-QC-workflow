@@ -1,0 +1,8 @@
+mzML.file.dir	/media/naadir/Outputs/Workflow.Test/RawFiles
+Annotation.dir	/media/naadir/Outputs/Workflow.Test/RawFiles/Sample.list.tsv
+Anno.Out	/media/naadir/Outputs/Workflow.Test/RawFiles
+Search.Output.dir	/media/naadir/Outputs/Workflow.Test/SearchOutputs
+disk	T
+QC.Only	F
+Comparisons	/media/naadir/Outputs/Workflow.Test/SearchOutputs/Comparisons.txt
+valid.value.threshold	3
